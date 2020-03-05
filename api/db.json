@@ -6,15 +6,16 @@
       "id": 1
     },
     {
-      "title": "Another Atream",
-      "description": "Here's some stream",
-      "id": 2
-    },
-    {
       "title": "This is my stream",
       "description": "this stream created by me!",
       "userId": "108980943479148326650",
       "id": 3
+    },
+    {
+      "title": "new Stream",
+      "description": "My awesome Stream",
+      "userId": "108980943479148326650",
+      "id": 4
     }
   ]
 }
